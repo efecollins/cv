@@ -1,0 +1,59 @@
+                    /***************************************TAG SELECTORS*****************************************/
+
+body {
+    background-color: #E4F9F5;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width:2%;
+    border-color: grey;
+    border-width: 5px;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h1:hover{
+    color: chocolate;
+}
+
+h2{
+    color: #66BFBF;
+}
+
+h3{
+    color: teal;
+}
+
+h4{
+    color: teal;
+}
+
+h5{
+    color: seagreen;
+}
+
+h6{
+    color: seagreen;
+}
+
+img{
+    
+}
+
+
+                   /***************************************CLASS SELECTORS*****************************************/
+
+.big:hover{
+    font-size: large;
+}
+
+                   /***************************************ID SELECTORS*****************************************/
+
+#profilePicture{
+    border-radius:100%;
+    padding-right: 30px;
+}
